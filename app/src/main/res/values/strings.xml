@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">MotorDealership</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Cars4Sale</string>
+    <string name="nav_header_subtitle">www.Cars4Sale.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">All Vehicles</string>
+    <string name="menu_gallery">Sold Vehicle</string>
+    <string name="menu_slideshow">Company Details</string>
+    <string name="menu_VehicleDetails">Vehicle Details</string>
+    <string name="menu_AvailableVehicle">Available Vehicle</string>
+    <string name="menu_ModifiedVehicles">Modified vehicles</string>
+    <string name="menu_AddVehicle">Add Vehicle</string>
+
+
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

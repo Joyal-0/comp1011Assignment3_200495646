@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+
+            android:title="All Vehicles" />
+        <item
+            android:id="@+id/nav_gallery"
+
+            android:title="Sold Vehicles" />
+        <item
+            android:id="@+id/nav_slideshow"
+
+            android:title="Company Details" />
+        <item
+            android:id="@+id/vehicleDetails"
+
+            android:title="Vehicle Details" />
+        <item
+            android:id="@+id/availableVehicles"
+
+            android:title="Available Vehicles" />
+        <item
+            android:id="@+id/modifiedVehicles"
+
+            android:title="Modified Vehicles" />
+        <item
+            android:id="@+id/addVehicle"
+
+            android:title="Add Vehicle" />
+    </group>
+</menu>
